@@ -1,6 +1,7 @@
 # CreditCardFraudDetection
 
-Credit Card Fraud Detection using Machine Learning.
+Detecting Credit Card Fraud using Machine Learning.
+
 The Dataset is from Kaggle. 
 
 The link is down below
